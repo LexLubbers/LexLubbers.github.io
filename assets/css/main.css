@@ -1373,8 +1373,9 @@ section {
 }
 
 .team .member img {
-  border-radius: 10px;
+  border-radius: 50%;
   overflow: hidden;
+  width: 75%;
 }
 
 .team .member .member-content {
