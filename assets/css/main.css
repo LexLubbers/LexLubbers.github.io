@@ -101,6 +101,11 @@ section {
   color: #6f6f6f;
 }
 
+.text-orange {
+  color: var(--color-secondary);
+}
+
+
 /*--------------------------------------------------------------
 # Breadcrumbs
 --------------------------------------------------------------*/
@@ -717,10 +722,19 @@ section {
   border-radius: 0;
 }
 
+.row-center-text {
+  text-align: center;
+}
+
+.row-center-text div {
+  text-align: left;
+}
+
 .about .play-btn:hover:after {
   border-left: 15px solid var(--color-primary);
   transform: scale(20);
 }
+
 
 @keyframes pulsate-btn {
   0% {
