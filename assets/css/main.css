@@ -21,7 +21,7 @@
 :root {
   --color-default: #222222;
   --color-primary: #49A078;
-  --color-secondary: #E36414;
+  --color-secondary: #F85A40;
 }
 
 /* Smooth scroll behavior */
@@ -43,7 +43,7 @@ a {
 }
 
 a:hover {
-  color: #00b6a1;
+  color: #408b68;
   text-decoration: none;
 }
 
@@ -311,7 +311,7 @@ section {
 }
 
 .header .logo img {
-  max-height: 40px;
+  max-height: 60px;
   margin-right: 6px;
 }
 
@@ -1864,7 +1864,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit]:hover {
-  background: rgba(0, 131, 116, 0.8);
+  background: #408b68;
 }
 
 @keyframes animate-loading {
