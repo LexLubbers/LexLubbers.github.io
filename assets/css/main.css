@@ -1453,8 +1453,8 @@ section {
   width: 40%;
   font-size: 14px;
   display: block;
-  border-radius: 0px !important;
-  border: 0px !important;
+  white-space: nowrap;
+  padding-top: 18px;
 }
 
 /*--------------------------------------------------------------
